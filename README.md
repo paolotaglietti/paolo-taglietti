@@ -1,5 +1,2 @@
 # paolo-taglietti
-garden
-**pot
-**flower
-**water
+garden*pot*flower*water
