@@ -1,4 +1,4 @@
-##garden
+#garden
 *pot
 *flower
 *water
